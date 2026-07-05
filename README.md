@@ -12,7 +12,7 @@ export-ready SVG.
 
 ## Contents
 - `index.html` — interactive template builder (self-contained)
-- `svg/` — vector masters: primary, dark-background (off-white / gold ring), single-color (navy / ink), icon crop, wordmark lockups
+- `svg/` — vector masters: primary, dark-background (off-white / gold ring), single-color (navy / ink), icon crop, wordmark lockups ("Ronen Keisar", horizontal/stacked, motto optional)
 - `png/` — raster exports 48–1024 px + 2048 px source
 - `proofs/` — QA sheets
 
@@ -24,4 +24,4 @@ Type: Work Sans 700 (wordmark), motto in Work Sans 400.
 ## Rules (short form)
 Clear space = 1 ring-width. Minimum 48 px (64 px recommended). No gradients, no scene
 elements, no text baked into the mark. Never navy ring on dark backgrounds — use the dark
-variants. "ARCHIE" lockup is internal; external is "Ronen Keisar" + motto.
+variants. Lockup text: "Ronen Keisar", motto optional.
